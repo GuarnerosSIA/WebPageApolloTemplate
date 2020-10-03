@@ -1,2 +1,2 @@
-# Title of the programming tutorial [comment]: <> (Add the Title of your tutorial)
+# Title of the programming tutorial 
 Template for a tutorial page
